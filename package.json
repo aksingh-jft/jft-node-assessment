@@ -1,0 +1,29 @@
+{
+  "name": "nodejsassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aksingh-jft/jft-node-assessment.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "AMAN SINGH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aksingh-jft/jft-node-assessment/issues"
+  },
+  "homepage": "https://github.com/aksingh-jft/jft-node-assessment#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.2"
+  }
+}
